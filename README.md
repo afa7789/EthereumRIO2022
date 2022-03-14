@@ -13,9 +13,9 @@ how smart contracts works, from creation to deployment and validation.
 
 A Small description of the folder as an index to actually know which is which while browsing this repo.
 
-### Folder 1
+### 0_web3: Wallets, Etherscans and entering the web3
 
-
+Without an wallet and certain tools you can't really use web3 since most of it needs an wallet, hashes and accesses for some restricted content in the blockchain.
 
 ### Resources
 
