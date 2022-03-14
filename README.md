@@ -13,9 +13,13 @@ how smart contracts works, from creation to deployment and validation.
 
 A Small description of the folder as an index to actually know which is which while browsing this repo.
 
-### 0_web3: Wallets, Etherscans and entering the web3
+### [0_web3: Wallets, Etherscans and entering the web3](0_web3/README.md)
 
 Without an wallet and certain tools you can't really use web3 since most of it needs an wallet, hashes and accesses for some restricted content in the blockchain.
+
+### [1_hello_world: Your first Smart Contract](1_hello_world/README.md)
+
+A hello world in solidity. This part follows how to do a hello world, deploy and some ways of testing the solidity code.
 
 ### Resources
 
