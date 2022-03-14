@@ -29,7 +29,7 @@ And some instructions to help guide you in pre-parts before testing it.
    3. Choose in 'CONTRACT': HelloWorld - hello_world.sol
    4. Click on 'Deploy'
 5. Good now you can test your contract it will be showed in the same tab like the image bellow : ![!Theme Image](resources/hello_world.png)
-6. The yellow button is the function that spends cons and the blue one is the view one that's free to use. The yellow one will set a value to the variable and the blue one just read it. 
+6. Yellow buttons is functions that spends coins. Blue are view functions and are free to use. The yellow one will set a value to the variable and the blue one just read it, when using a yellow button the wallet will ask for authorization to use your coins in the transaction.
 7. You can click in the clipboard value and get the contract id. Mine is here,  0xC35fc5CEF2460e31285755F4294eaBC5c7b90341. Check it on [Etherscan](https://goerli.etherscan.io/address/0xC35fc5CEF2460e31285755F4294eaBC5c7b90341).
 8. You can interact with the contract not only in the place showed in the image above but in the contract tab in etherscan, but for that the code must be validated (this was covered in other part of the bootcamp.)
    
