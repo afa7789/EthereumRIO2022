@@ -26,6 +26,10 @@ A hello world in solidity. This part follows how to do a hello world, deploy and
 
 More info about code structures, certain keywords and other details of solidity.
 
+### [3_scaffold_and_token](3_scaffold_and_token/README.md)
+
+More info about code structures, certain keywords and other details of solidity.
+
 ### Resources
 
 Only a folder to store the images and other files that are related to the project and is probably used in one of READMEs present in this git repository.
