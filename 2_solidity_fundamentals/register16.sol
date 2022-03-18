@@ -22,6 +22,7 @@ contract Register16 {
         whiteList[owner] = true;
         InfoStruct memory infoAux = InfoStruct ({
             color: ColorInfo.Undefined,
+            // bellow we see how you can concat
             info:  string(abi.encodePacked("Hello World", toAsciiString(owner)))
         });        
         infos[owner].push (infoAux);
@@ -43,8 +44,12 @@ contract Register16 {
 
     /* ====================INFO HANDLERS==================*/
 
+    function getLength() public view returns ( uint) {
+        return (infos[msg.sender].length);
+    }
 
     function getInfo(uint index) public view returns (ColorInfo, string memory) {
+        require(infos[msg.sender].length > index,"index doesn't exist");
         return (infos[msg.sender][index].color, infos[msg.sender][index].info);
     }
 
@@ -60,10 +65,6 @@ contract Register16 {
             info: _info
         });        
         index = infos[msg.sender].push (infoAux) - 1;        
-    }   
-
-    function getLength() public view returns ( uint) {
-        return (infos[msg.sender].length);
     }
 
     /* =============ADDRESS TO STRING ================*/
