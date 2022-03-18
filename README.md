@@ -21,6 +21,11 @@ Without an wallet and certain tools you can't really use web3 since most of it n
 
 A hello world in solidity. This part follows how to do a hello world, deploy and some ways of testing the solidity code.
 
+
+### [2_solidity_fundamentals](2_solidity_fundamentals/README.md)
+
+More info about code structures, certain keywords and other details of solidity.
+
 ### Resources
 
 Only a folder to store the images and other files that are related to the project and is probably used in one of READMEs present in this git repository.
