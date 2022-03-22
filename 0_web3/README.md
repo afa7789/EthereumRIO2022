@@ -6,6 +6,7 @@ Table of Content:
   - [Web3](#web3)
   - [Wallet](#wallet)
   - [Hash](#hash)
+  - [Smart Contract](#smartcontract)
   - [EtherScan](#etherscan)
   - [TestNets](#testnets)
   - [Faucets](#faucets)
@@ -41,7 +42,7 @@ In crypto we have some diferent hashes that works as addresses for wallets, cont
 Check hash in this demo bellow:
 [Hash Visualizer](https://andersbrownworth.com/blockchain/hash)
 
-## Smart Contract
+## SmartContract
 
 Smart contracts are the way that someone can use to create a code that will be runned in the EVM, or another blockchain Virtual Machine. The Ethereum nodes are Turing complete, they can be used to run programs. The blockchain then is a descentralized state machine that is able to store transparent data. Smart contracts were idealized as a digital vending machine, the person can see the content behind the glass, put the money and expect something out of it.
 
