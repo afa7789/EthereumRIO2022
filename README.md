@@ -5,7 +5,9 @@ This repository is a showcase that contains the code and content created during 
 
 ## Ethereum RIO Bootcamp 2022
 The Ethereum RIO bootcamp 2022 was a hosted event before the Ethereum RIO 2022 main event//conference.
-The event purpose was of form more web3 developers, by teaching not only blockchain but smart contracts too.
+
+The event purpose was of form more web3 developers, by teaching not only blockchain but smart contracts too. We learned the concepts of it, keywords, some background history on they why of each feature. We learned how to deploy, use test-nets, faucets and much more.
+
 After completing the course we would have a more broad knowledge of what is blockchain, dApps and be able to understand
 how smart contracts works, from creation to deployment and validation.
 
