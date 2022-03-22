@@ -30,6 +30,10 @@ More info about code structures, certain keywords and other details of solidity.
 
 More info about code structures, certain keywords and other details of solidity.
 
+### [4_ethereum_patterns_ERC](4_ethereum_patterns_ERC/README.md)
+
+An introduction we had to ERC and the first token we have created.
+
 ### Resources
 
 Only a folder to store the images and other files that are related to the project and is probably used in one of READMEs present in this git repository.
