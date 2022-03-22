@@ -1,5 +1,5 @@
 ![!Theme Image](resources/bootcamp.png)
-# ERIO Solidity Showcase
+# EthereumRIO 2022 Solidity Showcase
 
 This repository is a showcase that contains the code and content created during the Ethereum Rio Bootcamp, that took place in Rio de Janeiro in 2022 during 11 to 13 march 2022. Each folder of this repository will have a small code and/or a README describing how to do an operation.
 
