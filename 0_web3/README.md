@@ -41,6 +41,10 @@ In crypto we have some diferent hashes that works as addresses for wallets, cont
 Check hash in this demo bellow:
 [Hash Visualizer](https://andersbrownworth.com/blockchain/hash)
 
+## Smart Contract
+
+Smart contracts are the way that someone can use to create a code that will be runned in the EVM, or another blockchain Virtual Machine. The Ethereum nodes are Turing complete, they can be used to run programs. The blockchain then is a descentralized state machine that is able to store transparent data. Smart contracts were idealized as a digital vending machine, the person can see the content behind the glass, put the money and expect something out of it.
+
 ## EtherScan
 
 Etherscan is one of tools that a web3 developer will be using mostly in his daily life. Since it allows you to not only see wallets, contracts , transactions and averiguate them but allows you to interact with other smart contracts too. It's a tool that's knowed as Blockchain Explorer, you have other ones for other cryptos too, but I believe this one is the most used. 
