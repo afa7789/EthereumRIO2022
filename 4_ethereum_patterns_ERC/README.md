@@ -6,7 +6,7 @@ I believe that the most famous know one is the ERC-20 token.
 
 We can create this type of tokens without much effort by using interfaces and some imports.
 
-In the bootcamp , after we learned about this patterns we created a mintable token, ERC20Mintable.
+In the bootcamp , after we learned about this patterns we created a mintable token, ERC20Mintable. We also got to know the concept of smart contract as a digital vendor machine.
 
 ```.sol
     pragma solidity 0.5.2;
