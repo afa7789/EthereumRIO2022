@@ -24,15 +24,14 @@ Without an wallet and certain tools you can't really use web3 since most of it n
 A hello world in solidity. This part follows how to do a hello world, deploy and some ways of testing the solidity code.
 
 
-### [2_solidity_fundamentals](2_solidity_fundamentals/README.md)
+### [2_solidity_fundamentals: More about Solidity itself](2_solidity_fundamentals/README.md)
 
 More info about code structures, certain keywords and other details of solidity.
 
-### [3_scaffold_and_token](3_scaffold_and_token/README.md)
+### [3_scaffold_and_token: Details of scaffold_eth](3_scaffold_and_token/README.md)
 
-More info about code structures, certain keywords and other details of solidity.
-
-### [4_ethereum_patterns_ERC](4_ethereum_patterns_ERC/README.md)
+A quick brief intro to the scaffold_eth tool to develop contracts.
+### [4_ethereum_patterns_ERC: What is the ERC and a minimal token](4_ethereum_patterns_ERC/README.md)
 
 An introduction we had to ERC and the first token we have created.
 
@@ -43,5 +42,6 @@ Only a folder to store the images and other files that are related to the projec
 #### Acknowledgment
 
 I would like to acknowledge and thanks for the team that come up with the event and in special to [Sol](https://github.com/solangegueiros) due to her wonderfull didactic.
+To all the friends made, highlighting Antonio from [Criptonomia](https://criptonomia.com/), and the guys from Pods and Defi Basket.
 
 ![!Theme Image](resources/calcada_bootcamp.png)
