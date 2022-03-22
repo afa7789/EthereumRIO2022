@@ -1,11 +1,13 @@
 ![!Theme Image](resources/bootcamp.png)
-# ERIO Solidity Showcase
+# EthereumRIO 2022 Solidity Showcase
 
 This repository is a showcase that contains the code and content created during the Ethereum Rio Bootcamp, that took place in Rio de Janeiro in 2022 during 11 to 13 march 2022. Each folder of this repository will have a small code and/or a README describing how to do an operation.
 
 ## Ethereum RIO Bootcamp 2022
 The Ethereum RIO bootcamp 2022 was a hosted event before the Ethereum RIO 2022 main event//conference.
-The event purpose was of form more web3 developers, by teaching not only blockchain but smart contracts too.
+
+The event purpose was of form more web3 developers, by teaching not only blockchain but smart contracts too. We learned the concepts of it, keywords, some background history on they why of each feature. We learned how to deploy, use test-nets, faucets and much more.
+
 After completing the course we would have a more broad knowledge of what is blockchain, dApps and be able to understand
 how smart contracts works, from creation to deployment and validation.
 

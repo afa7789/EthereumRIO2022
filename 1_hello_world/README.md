@@ -28,7 +28,7 @@ And some instructions to help guide you in pre-parts before testing it.
    2. Open your wallet change for Goerli TestNet, if you do not have credits in it use a goerli faucet. [Simple](https://fauceth.komputing.org/?chain=5) with a tweet [social](https://goerli-faucet.mudit.blog/). After you get some eth progress bellow. ( goerli must be showing bellow 'ENVIROMENT' in a chip)
    3. Choose in 'CONTRACT': HelloWorld - hello_world.sol
    4. Click on 'Deploy'
-5. Good now you can test your contract it will be showed in the same tab like the image bellow : ![!Theme Image](https://github.com/afa7789/EthereumRIO2022_solidity_showcase/resources/hello_world.pngg)
+5. Good now you can test your contract it will be showed in the same tab like the image bellow : ![!Theme Image](https://github.com/afa7789/EthereumRIO2022_solidity_showcase/blob/master/resources/hello_world.png)
 6. Yellow buttons is functions that spends coins. Blue are view functions and are free to use. The yellow one will set a value to the variable and the blue one just read it, when using a yellow button the wallet will ask for authorization to use your coins in the transaction.
 7. You can click in the clipboard value and get the contract id. Mine is here (at goerli testnet ),  0xC35fc5CEF2460e31285755F4294eaBC5c7b90341. Check it on goerli [Etherscan](https://goerli.etherscan.io/address/0xC35fc5CEF2460e31285755F4294eaBC5c7b90341).
 8. You can interact with the contract not only in the place showed in the image above but in the contract tab in etherscan, but for that the code must be validated (this was covered in other part of the bootcamp.)
