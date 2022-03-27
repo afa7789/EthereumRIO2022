@@ -35,6 +35,10 @@ A quick brief intro to the scaffold_eth tool to develop contracts.
 
 An introduction we had to ERC and the first token we have created.
 
+### [5_hardhat_infura: A DevTool and a dev service.](4_ethereum_patterns_ERC/README.md)
+
+What is the hardhat and infura, getting to use them, great developers tools to pave your way into the web3.
+
 ### Resources
 
 Only a folder to store the images and other files that are related to the project and is probably used in one of READMEs present in this git repository.
