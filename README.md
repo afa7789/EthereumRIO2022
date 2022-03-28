@@ -35,9 +35,13 @@ A quick brief intro to the scaffold_eth tool to develop contracts.
 
 An introduction we had to ERC and the first token we have created.
 
-### [5_hardhat_infura: A DevTool and a dev service.](4_ethereum_patterns_ERC/README.md)
+### [5_hardhat_infura: A DevTool and a dev service.](5_hardhat_infura/README.md)
 
 What is the hardhat and infura, getting to use them, great developers tools to pave your way into the web3.
+
+### [6_web3_frontend: Integrating contracts to platforms.](6_web3_frontend/README.md)
+
+Studying a react git to see how it's possible to integrate a contract to a react app. And this can be done in diverse programming languages this is just an study case with react.
 
 ### Resources
 
