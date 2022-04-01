@@ -43,6 +43,10 @@ What is the hardhat and infura, getting to use them, great developers tools to p
 
 Studying a react git to see how it's possible to integrate a contract to a react app. And this can be done in diverse programming languages this is just an study case with react.
 
+### [7_chainlink_keepers: Automating smart contracts.](6_web3_frontend/README.md)
+
+How to use chainlink keepers to run functions in the smart contract autonomously.
+
 ### Resources
 
 Only a folder to store the images and other files that are related to the project and is probably used in one of READMEs present in this git repository.

@@ -20,7 +20,6 @@ contract KeeperMinter is KeeperCompatibleInterface {
         TokenMinterInterface public minter;
         address to;
 
-
         // Use an interval in seconds and a timestamp to slow execution of Upkeep
         uint public immutable interval;
         uint public lastTimeStamp;    
