@@ -16,9 +16,9 @@ interface TokenMinterInterface {
 
 contract KeeperMinter is KeeperCompatibleInterface {
 
-        uint public counter;        // Public counter variable
+        uint public counter; // Public counter variable
         TokenMinterInterface public minter;
-        address to;
+        address to; // who is going to receive the tokens
 
         // Use an interval in seconds and a timestamp to slow execution of Upkeep
         uint public immutable interval;
