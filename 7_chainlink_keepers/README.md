@@ -6,6 +6,19 @@ The minter can mint our previous token, the keeper calls the minter and the inte
 
 we used remix in this one http://remix.ethereum.org/
 
+### Step by step.
+
+- Create a new account in metamask.
+  - Connect with it at the faucet and chainlink keeper.
+    - Get Faucets
+  - Connect with it at the remix.
+- Deploy your token. Mine is here: 0xE7D7C36A34385F3E0aAd9A34E3cefd4a405d814a
+- Deploy your token minter, with the token you created previously. Mine is here: 0x2F0E69afa8A53b9D9a97Fa06826d792c1dC380e2
+- Add your token minter, in the token, at the buttons in remix.
+- Deploy your Keeper, adding your token minter, your wallet and a time interval. Mine is here: 0x9289825c63993002A83b965A1BDE02d50403B28a
+  - verifiy your contract at etherscan
+- At the Keeper's site, add the data for a new upkeeper/keeper register it, and see the magic happening of the ammount of token increasing in your account. 
+
 ## Token
 Create the file token.sol
 
