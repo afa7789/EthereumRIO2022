@@ -17,7 +17,7 @@ we used remix in this one http://remix.ethereum.org/
 - Add your token minter, in the token, at the buttons in remix.
 - Deploy your Keeper, adding your token minter, your wallet and a time interval. Mine is here: 0x9289825c63993002A83b965A1BDE02d50403B28a
   - verifiy your contract at etherscan
-- At the Keeper's site, add the data for a new upkeeper/keeper register it, and see the magic happening of the ammount of token increasing in your account. 
+- At the Keeper's site, add the data for a new upkeeper/keeper register it, and see the magic happening of the ammount of token increasing in your account. Check mine here : https://keepers.chain.link/kovan/2865
 
 ## Token
 Create the file token.sol
