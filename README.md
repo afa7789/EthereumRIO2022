@@ -3,9 +3,6 @@
 
 This repository is a showcase that contains the code and content created during the Ethereum Rio Bootcamp, that took place in Rio de Janeiro in 2022 during 11 to 13 march 2022. Each folder of this repository will have a small code and/or a README describing how to do an operation.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.EthereumRIO2022)
-
-
 ## Ethereum RIO Bootcamp 2022
 The Ethereum RIO bootcamp 2022 was a hosted event before the Ethereum RIO 2022 main event//conference.
 
@@ -60,3 +57,5 @@ I would like to acknowledge and thanks for the team that come up with the event 
 To all the friends made, highlighting Antonio from [Criptonomia](https://criptonomia.com/), and the guys from Pods and Defi Basket.
 
 ![!Theme Image](resources/calcada_bootcamp.png)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.EthereumRIO2022)
