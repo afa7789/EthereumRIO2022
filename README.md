@@ -43,7 +43,7 @@ What is the hardhat and infura, getting to use them, great developers tools to p
 
 Studying a react git to see how it's possible to integrate a contract to a react app. And this can be done in diverse programming languages this is just an study case with react.
 
-### [7_chainlink_keepers: Automating smart contracts.](6_web3_frontend/README.md)
+### [7_chainlink_keepers: Automating smart contracts.](7_chainlink_keepers/README.md)
 
 How to use chainlink keepers to run functions in the smart contract autonomously.
 
@@ -61,3 +61,5 @@ I would like to acknowledge and thanks for the team that come up with the event 
 To all the friends made, highlighting Antonio from [Criptonomia](https://criptonomia.com/), and the guys from Pods and Defi Basket.
 
 ![!Theme Image](resources/calcada_bootcamp.png)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.EthereumRIO2022)
