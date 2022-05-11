@@ -47,6 +47,10 @@ Studying a react git to see how it's possible to integrate a contract to a react
 
 How to use chainlink keepers to run functions in the smart contract autonomously.
 
+### [others_solidity: experiments with sol contracts.](others_solidity/README.md)
+
+After the bootcamp, I kept using this repo to stay together info about solidity, I kept learning.
+
 ### Resources
 
 Only a folder to store the images and other files that are related to the project and is probably used in one of READMEs present in this git repository.
