@@ -6,7 +6,17 @@ This repository have three set of code : regiter3, register5 and register16 they
 
 ### public and private.
 
-Public and view are used to control what is used inside the contract and can be used outside of it.
+Public and private are used to control what is used inside the contract and can be used outside of it.
+
+Private is used to define what is only called inside the contract.
+
+Public is used to define what can be called by inside and outside of the contract.
+
+### interval and external
+
+the external key is used to define functions that are only callable by outside of the contract.
+
+the internal key is used to define functions that are only callable by the contract and other contracts which inherits themselves.
 
 ### constructor
 
